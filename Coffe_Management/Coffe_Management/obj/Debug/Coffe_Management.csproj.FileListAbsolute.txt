@@ -1,0 +1,10 @@
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\bin\Debug\Coffe_Management.exe.config
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\bin\Debug\Coffe_Management.exe
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\bin\Debug\Coffe_Management.pdb
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\obj\Debug\Coffe_Management.Form1.resources
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\obj\Debug\Coffe_Management.Properties.Resources.resources
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\obj\Debug\Coffe_Management.csproj.GenerateResource.cache
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\obj\Debug\Coffe_Management.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\obj\Debug\Coffe_Management.exe
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\obj\Debug\Coffe_Management.pdb
+C:\Users\Thanh Nguyen\Desktop\Coffe_Management_System\Coffe_Management\Coffe_Management\obj\Debug\Coffe_Management.csproj.AssemblyReference.cache
